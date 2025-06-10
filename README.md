@@ -29,7 +29,7 @@ The deployed version of this project is available here:
 Add screenshots of your notebook, EDA plots, or deployed app here.  
 For example:
 
-![Website Preview 1](screenshot1.png)
+![Website Preview 1](screenshots1.png)
 ![Website Preview 2](screenshots2.png)
 ![Data Overview](screenshots3.png)
 
